@@ -1,0 +1,65 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background: grey;
+}
+
+header {
+    width: 98%;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    background: white;
+    border: 1px solid black;
+}
+
+nav {
+    width: 98%;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    background: white;
+    border: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 1%;
+}
+
+main {
+    width: 98%;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    background: white;
+    border: 1px solid black;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    padding: 1%;
+    max-width: 100%;
+}
+
+.seccion {
+    background: lightgrey;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+}
+
+img {
+    width: 50%;
+}
+
+footer {
+    width: 98%;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    background: white;
+    border: 1px solid black;
+}
